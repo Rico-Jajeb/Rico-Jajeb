@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎉 Achievements - 🥇 Programmer of the Year - 🏆 Best in Capstone - 🎤 Best Capstone Male Presenter - 📚 Academic Achiever - 🔧 Technician of the Year<br>
+I'm SunRaku, a passionate programmer specializing in full-stack web development with a focus on Laravel, Vue.js, Inertia.js, and Tailwind CSS.<br>
 
 
 ## 🌐 Socials:
