@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm SunRaku, a passionate programmer specializing in full-stack web development with a focus on Laravel, Vue.js, Inertia.js, and Tailwind CSS.<br>
+I'm Rico Jajeb, a passionate programmer specializing in full-stack web development with a focus on Laravel, Vue.js, Inertia.js, and Tailwind CSS.<br>
 
 
 ## 🌐 Socials:
