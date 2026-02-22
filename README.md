@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Rico Jajeb, a passionate programmer specializing in full-stack web development with a focus on Laravel, Vue.js, Inertia.js, and Tailwind CSS.<br>
+I'm Rico Jajeb, a gaming and anime enthusiast who loves playing CODM, exploring MMOs, reading manga and novels, and staying active with badminton.<br>
 
 
 ## 🌐 Socials:
